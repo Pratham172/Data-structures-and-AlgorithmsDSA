@@ -1,5 +1,5 @@
 <h1>Data-Strucures</h1>
-<h4>Array-structure<h4><br>
+<h4>Array-structure<h4>
 <ul>
 <h6>In Python:<h6>
 <li><a href="./DSA-PYTHON/Data-structures/Array-structure/reverse_array.py">Reverse an Array in python</a></li>
