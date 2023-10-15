@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.preferredDarkColorTheme": "Default Dark Modern",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+    "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark",
+    "typescript.inlayHints.enumMemberValues.enabled": false,
+    "liveServer.settings.port": 5501,
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+      "chapter-6": "cpp"
+    }
+}
