@@ -5,12 +5,19 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Python: Current File",
-      "type": "python",
-      "request": "launch",
-      "program": "${file}",
-      "console": "integratedTerminal",
-      "justMyCode": true
+        "type": "java",
+        "name": "RotateArray",
+        "request": "launch",
+        "mainClass": "RotateArray",
+        "projectName": "DSA_154d5179"
+    },
+    {
+        "name": "Python: Current File",
+        "type": "python",
+        "request": "launch",
+        "program": "${file}",
+        "console": "integratedTerminal",
+        "justMyCode": true
     }
-  ]
+]
 }

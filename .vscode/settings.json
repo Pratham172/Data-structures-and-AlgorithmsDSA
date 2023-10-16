@@ -9,5 +9,9 @@
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
       "chapter-6": "cpp"
-    }
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
 }
